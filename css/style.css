@@ -1,0 +1,24 @@
+#A{
+    display: flex;
+padding-left: 5em;}
+
+
+
+.card{
+    margin: 1rem auto;
+}
+
+
+.F{
+    position: relative;
+    left: -500PX;
+
+}
+
+.img{
+}
+
+#header2{
+font-weight: bold;
+font-size: larger;
+}
